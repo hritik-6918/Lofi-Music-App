@@ -1,4 +1,4 @@
-# Lofi - A Music App for Focus and Motivation 🎶🎵💻🏋️‍♀️🧘‍♀️
+# Lofi - A Music App for Focus and Motivation 🎶🎵💻🏋️‍♀️
 Lofi is a web-based music application that uses soothing and uplifting sounds to help users stay motivated and focused when they work, exercise, or meditate. Built with TypeScript and React, Lofi offers a seamless and intuitive user experience, with a clean and simple design that is easy to navigate.
 
 ### Features 🚀
