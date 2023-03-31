@@ -13,7 +13,7 @@ To use Lofi, simply visit the website [here](https://hritik-6918-lofi-app.netlif
 ![Capture d’écran 2023-03-10 192632](https://user-images.githubusercontent.com/63268101/224394864-2799543e-e455-46c9-81aa-9d4b61b07675.png)
 
 # Contributing 💻
-We welcome contributions to Lofi from the open-source community! If you're interested in contributing, please see our contributing guidelines for more information.
+We welcome contributions to Lofi from the open-source community!
 
 If you find this app helpful, please consider giving it a ⭐️ star on GitHub to show your support
 
