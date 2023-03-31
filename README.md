@@ -7,7 +7,7 @@ Lofi is a web-based music application that uses soothing and uplifting sounds to
 - Responsive design that works across multiple devices and platforms 📱💻🖥️
 
 ### Getting Started 🚀
-To use Lofi, simply visit the website [here](https://lofi-delta.vercel.app "here"). You can then start playing music immediately, or explore the different customization options to tailor your listening experience to your preferences.
+To use Lofi, simply visit the website [here](https://hritik-6918-lofi-app.netlify.app/ "here"). You can then start playing music immediately, or explore the different customization options to tailor your listening experience to your preferences.
 
 ### overview 💻
 ![Capture d’écran 2023-03-10 192632](https://user-images.githubusercontent.com/63268101/224394864-2799543e-e455-46c9-81aa-9d4b61b07675.png)
@@ -25,10 +25,6 @@ If you find this app helpful, please consider giving it a ⭐️ star on GitHub 
 * Tailwind CSS
 
 Let's run this website locally
-
-> Fork this repository 
-
-![image](https://user-images.githubusercontent.com/88102392/224505835-a2be9bee-f149-46b1-a3b1-9742d54589a1.png)
 
 
 > Clone this repository
